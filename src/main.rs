@@ -1,4 +1,6 @@
 mod day1;
+mod day2;
+
 fn main() {
-    day1::day1::read_lines("src/day1/input_day1");
+    day2::day2::read_lines("src/day2/input_day2");
 }
